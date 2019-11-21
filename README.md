@@ -1,4 +1,4 @@
 # Resume
 
 ### This is resume website 
-### Tecnologies Used are html and css
+### Technologies Used are html and css
