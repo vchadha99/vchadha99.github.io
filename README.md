@@ -1,4 +1,9 @@
 # Resume
 
-### This is resume website 
-### Technologies Used are html and css
+### This is resume website of VARUN CHADHA
+
+### Technologies Used
+#### HTML
+#### CSS
+#### BOOTSTRAP
+#### JavaScript
